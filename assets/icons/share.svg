@@ -1,0 +1,6 @@
+<svg id="icons_light_share" data-name="icons/light/share" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_518" data-name="Rectangle 518" width="24" height="24" fill="#fff" opacity="0"/>
+  <path id="Path_200" data-name="Path 200" d="M4,12v8a1.888,1.888,0,0,0,1.75,2h10.5A1.888,1.888,0,0,0,18,20V12" transform="translate(1 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Path_201" data-name="Path 201" d="M15.6,6,11.8,2,8,6" transform="translate(0.2 1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <line id="Line_209" data-name="Line 209" y2="13" transform="translate(12 3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>
